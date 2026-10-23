@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "dashboards": {
+      "dashboards": "Dashboard",
+      "home": "Home"
+    },
+    "registration": {
+      "registration": "Registration",
+      "new": "New Registration",
+      "expired": "Expired Registrations"
+    },
+    "leads": {
+      "leads": "Lead Management",
+      "new": "New Lead",
+      "todaySchedule": "Today's Schedule",
+      "followUp": "Follow-up"
+    },
+    "logout": "Logout",
+    "settings": {
+      "settings": "Settings",
+      "general": "General",
+      "appearance": "Appearance"
+    }
+  }
+}
